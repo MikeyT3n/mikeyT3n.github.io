@@ -3,7 +3,6 @@ p2 {
     padding: 2% 2% 12px;
 }
 
-footer {
-    background-color:lightblue;
-    
+body {
+    background: linear-gradient(-90deg,  #3399ff, white);
 }
